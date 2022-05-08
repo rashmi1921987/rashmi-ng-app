@@ -1,0 +1,9 @@
+.wrapper {
+    margin: 15px;
+}
+table {
+    width: 100%;
+}
+mat-icon {
+    cursor: pointer;
+}
